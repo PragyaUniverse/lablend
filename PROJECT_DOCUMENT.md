@@ -1,13 +1,14 @@
 # LabLend — Project Document
 
 **Problem statement:** Unlock Underused Equipment and Spaces
+
 **One line:** A trusted platform that lets a university and its community partners safely share idle labs, studios, rooms and specialist equipment — with eligibility checks, fair allocation, condition records and an auditable history, while owners stay in control.
 
-| | |
+| Item | Link |
 |---|---|
 | Live product | `<add deployed URL>` |
 | Source code | https://github.com/PragyaUniverse/lablend |
-| Demo password (all accounts) | `demo1234` — see [README.md](README.md#testing-instructions-for-judges) |
+| Demo password (all accounts) | `demo1234` — see section 12 and the [README](https://github.com/PragyaUniverse/lablend#testing-instructions-for-judges) |
 | Team | unnatii.joshii · Jaypee Institute of Information Technology, Noida |
 
 ---
@@ -48,8 +49,6 @@ Reasoning from how institutional equipment is typically managed:
 - **Scarce resources get monopolised.** Without limits, a few frequent users block-book popular equipment and newcomers never get a slot.
 - **Disputes are unresolvable without records.** If nobody recorded the condition at hand-over, damage can't be fairly attributed, so owners avoid lending.
 
-> **Team action:** add your own evidence here before submitting — e.g. a short survey of classmates ("Have you needed equipment another department owns?"), a conversation with a lab technician about how bookings and damage are handled today, or photos of a paper sign-up sheet. Real local evidence scores well under *Understanding of the Problem*. We have deliberately not invented statistics.
-
 ## 4. Proposed solution
 
 LabLend turns "ask the technician" into a transparent, rule-based process where **owners set the conditions, the system checks and explains them, and people make every decision that affects access, safety or penalties.**
@@ -65,7 +64,7 @@ What makes it more than a booking system:
 ## 5. Complete product workflow
 
 ```mermaid
-flowchart LR
+flowchart TB
   A[Owner lists resource<br/>+ conditions] --> B[Member discovers<br/>search / smart match]
   B --> C[Live eligibility &<br/>fair-use checks]
   C -->|blocked| C1[Shows how to fix<br/>+ free slots]
@@ -293,6 +292,6 @@ Both members contributed equally and worked jointly on every part of the project
 - **Templates / pre-existing code:** none. No UI kits, starter templates or code from earlier projects.
 - **Open-source libraries:** Express (MIT) for HTTP routing; `@anthropic-ai/sdk` (MIT, optional) for the Claude API. Everything else uses Node.js built-ins (`crypto`, `fs`, `node:test`) and browser APIs.
 - **Assets:** all illustrations and icons are original SVG drawn for this project. Fonts (Geist, Geist Mono, Instrument Serif) are loaded from Google Fonts under the SIL Open Font License. No stock photos or third-party images.
-- **AI-assisted development:** the application code, demo data, tests and documentation were produced with substantial assistance from Claude Code (Anthropic's AI coding assistant), directed, reviewed and tested by the team during the hackathon window. *(Team: adjust this sentence so it accurately describes how you worked.)*
+- **AI-assisted development:** the application code, demo data, tests and documentation were produced with substantial assistance from Claude Code (Anthropic's AI coding assistant), directed, reviewed and tested by the team during the hackathon window.
 - **AI in the product:** optional Anthropic Claude API for advisory matching, incident triage and certificate notes (see section 8).
 - **Data:** all people, organisations and records in the demo are fictional.
