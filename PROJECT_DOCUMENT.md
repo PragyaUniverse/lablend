@@ -8,7 +8,7 @@
 | Live product | `<add deployed URL>` |
 | Source code | https://github.com/PragyaUniverse/lablend |
 | Demo password (all accounts) | `demo1234` — see [README.md](README.md#testing-instructions-for-judges) |
-| Team | LabLend · Jaypee Institute of Information Technology, Noida |
+| Team | unnatii.joshii · Jaypee Institute of Information Technology, Noida |
 
 ---
 
@@ -279,7 +279,7 @@ Automated tests: `npm install && npm test` (7 end-to-end tests covering the full
 
 ## 13. Team and participants
 
-**Team LabLend** · Jaypee Institute of Information Technology (JIIT), Noida · B.Tech Computer Science & Engineering, 3rd year
+**Team unnatii.joshii** · Jaypee Institute of Information Technology (JIIT), Noida · B.Tech Computer Science & Engineering, 3rd year
 
 | Name | Role | Email | Share |
 |---|---|---|---|

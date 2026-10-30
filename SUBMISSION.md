@@ -122,7 +122,7 @@ Copy this into the form:
 ## 5. Team and participant details
 
 ```
-Team name: LabLend
+Team name: unnatii.joshii
 College: Jaypee Institute of Information Technology (JIIT), Noida
 Members:
 - Unnati Joshi (Team leader): B.Tech Computer Science & Engineering, 3rd year, unnatii.joshii@gmail.com
