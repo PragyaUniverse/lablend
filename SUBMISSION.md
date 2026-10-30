@@ -1,7 +1,7 @@
 # LabLend: submission sheet
 
 Everything the hackathon asks for, in order, ready to copy into the form.
-Fill in the four `<…>` placeholders (live link, repository link, team, roles) before submitting.
+Fill in the remaining `<…>` placeholders (live link, team, roles) before submitting.
 
 ---
 
@@ -41,7 +41,7 @@ Note: Render's free plan sleeps after about 15 minutes of inactivity, so the fir
 ## 2. Source-code repository
 
 ```
-<your GitHub repository URL>
+https://github.com/PragyaUniverse/lablend
 ```
 
 How to create it:
@@ -63,7 +63,7 @@ If you keep the repository private, add the judges' GitHub accounts as collabora
 Link to `PROJECT_DOCUMENT.md` in your repository:
 
 ```
-<your GitHub repository URL>/blob/main/PROJECT_DOCUMENT.md
+https://github.com/PragyaUniverse/lablend/blob/main/PROJECT_DOCUMENT.md
 ```
 
 It covers everything the brief lists:
@@ -153,7 +153,7 @@ Copy this into the form (adjust the AI sentence so it accurately describes how y
 ## Final checklist before you press Submit
 
 - [ ] App deployed, link opens and you can sign in as Aisha
-- [ ] Repository is public (or judges added) and the link works in a private browser window
+- [x] Repository is public: https://github.com/PragyaUniverse/lablend
 - [ ] `PROJECT_DOCUMENT.md` section 3 has your own evidence; section 13 has your team
 - [ ] Team details and member roles filled in (items 5 and 6)
 - [ ] AI-use disclosure accurately describes how you worked

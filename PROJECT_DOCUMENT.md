@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | Live product | `<add deployed URL>` |
-| Source code | `<add repository URL>` |
+| Source code | https://github.com/PragyaUniverse/lablend |
 | Demo password (all accounts) | `demo1234` — see [README.md](README.md#testing-instructions-for-judges) |
 | Team | `<team name>` |
 
