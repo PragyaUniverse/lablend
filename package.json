@@ -1,0 +1,23 @@
+{
+  "name": "lablend",
+  "version": "1.0.0",
+  "description": "LabLend — a trusted platform for sharing underused campus labs, spaces and equipment, with eligibility checks, fair allocation, condition records and a tamper-evident audit trail.",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "reset": "RESET_ON_START=1 node server/index.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^1.3.0"
+  },
+  "license": "MIT"
+}

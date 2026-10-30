@@ -1,0 +1,21 @@
+# One-click deploy on Render (https://render.com): New → Blueprint → select this repo.
+services:
+  - type: web
+    name: lablend
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev --no-audit --no-fund
+    startCommand: npm start
+    healthCheckPath: /api/meta
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: INSTITUTION_TZ
+        value: Asia/Kolkata
+      - key: DEMO_MODE
+        value: "true"
+      - key: AUTO_RESEED_HOURS
+        value: "24"
+      # Optional: enables Claude-powered matching, incident triage and certificate notes.
+      - key: ANTHROPIC_API_KEY
+        sync: false
