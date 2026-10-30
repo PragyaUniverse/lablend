@@ -1,7 +1,7 @@
 # LabLend: submission sheet
 
 Everything the hackathon asks for, in order, ready to copy into the form.
-Fill in the remaining `<…>` placeholders (live link, team, roles) before submitting.
+Fill in the remaining `<…>` placeholder (live link) before submitting.
 
 ---
 
@@ -122,20 +122,21 @@ Copy this into the form:
 ## 5. Team and participant details
 
 ```
-Team name: <team name>
+Team name: LabLend
+College: Jaypee Institute of Information Technology (JIIT), Noida
 Members:
-- <Full name>, <college / course / year>, <email>
-- <Full name>, <college / course / year>, <email>
+- Unnati Joshi (Team leader): B.Tech Computer Science & Engineering, 3rd year, unnatii.joshii@gmail.com
+- Pragya Sumbly (Member): B.Tech Computer Science & Engineering, 3rd year, pragyasumbly5296@gmail.com
 ```
 
 ## 6. Role and contribution of each member
 
-```
-- <Name>: <role, e.g. product & research> — <what they did, e.g. defined the use case, researched how labs manage bookings, wrote the project document, tested the workflows>
-- <Name>: <role, e.g. development> — <what they did, e.g. built and tested the booking rules, the review workflow and the interface, deployed the app>
-```
+Both members contributed equally (50 / 50) and worked jointly on every part of the project.
 
-Be specific and accurate. Judges may ask for development history as evidence.
+```
+- Unnati Joshi (Team leader, co-developer, 50%): jointly defined the use case and the rules for eligibility, fair allocation and accountability; co-designed the user experience for students, lab managers, owners and admins; co-built and tested the booking workflow, review queue, check-in/return and incident handling; co-wrote the project document; led team coordination and the final submission.
+- Pragya Sumbly (Member, co-developer, 50%): jointly defined the use case and the rules for eligibility, fair allocation and accountability; co-designed the user experience for students, lab managers, owners and admins; co-built and tested the booking workflow, review queue, check-in/return and incident handling; co-wrote the project document; set up the repository and deployment.
+```
 
 ## 7. Disclosure of templates, libraries, existing components, pre-existing code and AI use
 
@@ -155,7 +156,7 @@ Copy this into the form (adjust the AI sentence so it accurately describes how y
 - [ ] App deployed, link opens and you can sign in as Aisha
 - [x] Repository is public: https://github.com/PragyaUniverse/lablend
 - [ ] `PROJECT_DOCUMENT.md` section 3 has your own evidence; section 13 has your team
-- [ ] Team details and member roles filled in (items 5 and 6)
+- [x] Team details and member roles filled in (items 5 and 6)
 - [ ] AI-use disclosure accurately describes how you worked
 - [ ] All links tested from a signed-out browser
 - [ ] Submitted before the deadline, and nothing changed afterwards

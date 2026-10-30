@@ -8,7 +8,7 @@
 | Live product | `<add deployed URL>` |
 | Source code | https://github.com/PragyaUniverse/lablend |
 | Demo password (all accounts) | `demo1234` — see [README.md](README.md#testing-instructions-for-judges) |
-| Team | `<team name>` |
+| Team | LabLend · Jaypee Institute of Information Technology, Noida |
 
 ---
 
@@ -279,10 +279,14 @@ Automated tests: `npm install && npm test` (7 end-to-end tests covering the full
 
 ## 13. Team and participants
 
-| Name | Role | Contribution |
-|---|---|---|
-| `<name>` | `<e.g. product & research>` | `<what they did>` |
-| `<name>` | `<e.g. full-stack development>` | `<what they did>` |
+**Team LabLend** · Jaypee Institute of Information Technology (JIIT), Noida · B.Tech Computer Science & Engineering, 3rd year
+
+| Name | Role | Email | Share |
+|---|---|---|---|
+| Unnati Joshi | Team leader, co-developer | unnatii.joshii@gmail.com | 50% |
+| Pragya Sumbly | Member, co-developer | pragyasumbly5296@gmail.com | 50% |
+
+Both members contributed equally and worked jointly on every part of the project: defining the use case and the eligibility, fair-allocation and accountability rules; designing the experience for students, lab managers, owners and administrators; building and testing the booking workflow, review queue, check-in/return, condition records and incident handling; and writing this document. Unnati additionally coordinated the team and the final submission; Pragya set up the repository and the deployment.
 
 ## 14. Disclosure of templates, libraries, existing components and AI use
 
