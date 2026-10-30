@@ -2,7 +2,7 @@
 
 LabLend lets university departments and community partners share underused labs, studios, rooms and specialist equipment with students, researchers and local makers — with eligibility checks, fair allocation, condition records and a tamper-evident audit trail. Owners stay in control: **the system checks, ranks and explains; people decide.**
 
-- **Live demo:** `<add your deployed URL here>`
+- **Live demo:** https://lablend.onrender.com
 - **Project document:** [PROJECT_DOCUMENT.md](PROJECT_DOCUMENT.md)
 
 ## Testing instructions for judges

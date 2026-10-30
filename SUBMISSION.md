@@ -1,7 +1,7 @@
 # LabLend: submission sheet
 
 Everything the hackathon asks for, in order, ready to copy into the form.
-Fill in the remaining `<…>` placeholder (live link) before submitting.
+All links are filled in.
 
 ---
 
@@ -26,7 +26,7 @@ The demo covers the complete lifecycle for students, lab managers, resource owne
 ## 1. Link to the functioning product
 
 ```
-<your deployed URL, e.g. https://lablend.onrender.com>
+https://lablend.onrender.com
 ```
 
 How to get it (about 10 minutes, free):
@@ -153,7 +153,7 @@ Copy this into the form (adjust the AI sentence so it accurately describes how y
 
 ## Final checklist before you press Submit
 
-- [ ] App deployed, link opens and you can sign in as Aisha
+- [x] App deployed: https://lablend.onrender.com
 - [x] Repository is public: https://github.com/PragyaUniverse/lablend
 - [ ] `PROJECT_DOCUMENT.md` section 3 has your own evidence; section 13 has your team
 - [x] Team details and member roles filled in (items 5 and 6)

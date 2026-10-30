@@ -6,7 +6,7 @@
 
 | Item | Link |
 |---|---|
-| Live product | `<add deployed URL>` |
+| Live product | https://lablend.onrender.com |
 | Source code | https://github.com/PragyaUniverse/lablend |
 | Demo password (all accounts) | `demo1234` — see section 12 and the [README](https://github.com/PragyaUniverse/lablend#testing-instructions-for-judges) |
 | Team | unnatii.joshii · Jaypee Institute of Information Technology, Noida |
